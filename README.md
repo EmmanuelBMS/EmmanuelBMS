@@ -40,8 +40,8 @@ o quanto você pode ser mais <b>produtivo</b> e perde menos <b>tempo</b> com tar
 
 <h2>Redes Sociais</h2>
 
-<a href="https://www.linkedin.com/in/emmanuelbms/"><img alt="linkedin icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="70px"/></a>
-<a href="mailto:ebms.1712@gmail.com"><img alt="linkedin icon" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="80px" /></a>
+<a href="https://www.linkedin.com/in/emmanuelbms/"><img alt="linkedin icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px"/></a>
+<a href="mailto:ebms.1712@gmail.com"><img alt="linkedin icon" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px" /></a>
 
 <h2>Github Stats</h2>
 
