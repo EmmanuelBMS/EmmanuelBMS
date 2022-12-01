@@ -7,7 +7,7 @@ o quanto você pode ser mais <b>produtivo</b> e perder menos <b>tempo</b> com ta
 
 <ul>
 	<li>:video_game: Adoro jogar vídeo games e recentemente adquiri um Nintendo Switch e estou muito satisfeito !
-	<li>:desktop_computer: Estou estudando um pouco de desenvolvimento de games com Unity, pois sempre tive muita curiosidade para aprender algo nesta área!
+	<li>:desktop_computer: Estou estudando um pouco de desenvolvimento de games com Unity. Sempre tive muita curiosidade para aprender algo nesta área!
 	<li>:tv: Adoro séries e filmes. Séries preferidas: Breaking Bad :trophy:, Prison Break :runner:, Suits :necktie:!
 	<li>:game_die: Fora dos consoles e PCs, também adoro um bom jogo de tabuleiro, sejam clássicos ou modernos, a maioria me agrada !
 	<li>:diamonds: Amo poker e outros jogos de cartas !
