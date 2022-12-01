@@ -16,7 +16,7 @@ o quanto você pode ser mais <b>produtivo</b> e perder menos <b>tempo</b> com ta
 <h2>Planos sobre Tecnologia</h2>
 
 <ul>
-	<li>:facepunch: Pretendo me aprimorar em segurança da informação ! Estudar um pouco em como ter um código mais seguro e protegido contra ataques</li>
+	<li>:facepunch: Pretendo me aprimorar em segurança da informação ! Estudar como ter um código mais seguro e protegido contra ataques</li>
 	<li>:video_game: Fazer do desenvolvimento de jogos o meu principal hobby</li>
 	<li>:keyboard: Aprender um pouco mais sobre design de aplicações !</li>
 </ul>
