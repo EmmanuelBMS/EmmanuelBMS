@@ -1,7 +1,7 @@
 <h2>Bem vindo visitante ! :cowboy_hat_face:</h2>
 <p>Prazer me chamo <b>Emmanuel</b> :sunglasses:e tenho 27 anos. Tem aproximadamente 1 ano e meio que me apaixonei por tecnologia e especialmente a desenvolvimento de software.
 Procuro utilizar o conhecimento que adquiri recentemente, associado ao que veio se tornar o meu <b>sonho</b> - que é mostrar para as pessoas que são resistentes com a tecnologia,
-o quanto você pode ser mais <b>produtivo</b> e perder menos <b>tempo</b> com tarefas simples que podem ser automatizadas, ou evitar situações como as que presenciei com o meu <b>Pai</b>: espantar-se por perceber que após a pandemia e graças a tecnologia, quase já não existem mais filas no banco ao qual ele frequenta. Meu pai é um senhor de 78 anos que se recusa a utilizar certos tipos de tecnologias, principalmente as relacionadas ao sistema financeiro. Minha missão se tornou mostrar a essas pessoas o quanto podemos evoluir e ainda manter um nível elevado de segurança ao utilizar tais ferramentas :ok_hand::ok_hand: !<p>
+o quanto você pode ser mais <b>produtivo</b> e perder menos <b>tempo</b> com tarefas simples que podem ser automatizadas ou evitar situações como as que presenciei com o meu <b>Pai</b>: espantar-se por perceber que após a pandemia e graças a tecnologia, quase já não existem mais filas no banco ao qual ele frequenta. Meu pai é um senhor de 78 anos que se recusa a utilizar certos tipos de tecnologias, principalmente as relacionadas ao sistema financeiro. Minha missão se tornou mostrar a essas pessoas o quanto podemos evoluir e ainda manter um nível elevado de segurança ao utilizar tais ferramentas :ok_hand::ok_hand: !<p>
 
 <h2>Curiosidades sobre mim!</h2>
 
