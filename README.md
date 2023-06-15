@@ -41,7 +41,7 @@ o quanto você pode ser mais <b>produtivo</b> e perder menos <b>tempo</b> com ta
 <h2>Redes Sociais</h2>
 
 <a href="https://www.linkedin.com/in/emmanuelbms/"><img alt="linkedin icon" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px"/></a>
-<a href="mailto:ebms.1712@gmail.com"><img alt="linkedin icon" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px" /></a>
+<a href="mailto:ebms.1712@gmail.com"><img alt="linkedin icon" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50px" style="margin-left:5px" /></a>
 
 <h2>Github Stats</h2>
 
